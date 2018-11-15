@@ -1,0 +1,23 @@
+.container-fluid{
+    padding: 0px;
+}
+.info-bar{
+    float: right;
+    width: 320px;
+    text-align: right;
+}
+.ver-info{
+    display: inline-block;
+    color: #05ffa1;
+}
+.compiler{
+    display: inline-block;
+    margin-left: 8px;
+    color: #01cdfe
+}
+.list-group-item{
+    background-color: rgba(0, 0, 0, 0.7);
+}
+body{
+    background-image: linear-gradient(#27b3b6, #ff00ff);
+}
