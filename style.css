@@ -21,3 +21,10 @@
 body{
     background-image: linear-gradient(#27b3b6, #ff00ff);
 }
+a{
+    color: #fffb96;
+}
+a:hover{
+    color: rgba(255, 251, 150, 0.7);
+    text-decoration: none;
+}
